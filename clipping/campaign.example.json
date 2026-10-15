@@ -1,0 +1,17 @@
+{
+  "required_phrase": "Paste the exact sentence the brief says must be in the caption",
+  "onscreen_required": "",
+  "title": "Paste the exact sentence the brief says must be in the caption @brand #ad",
+  "description": "Paste the exact sentence the brief says must be in the caption\n\n#Ad\n\n@brand\n\n#Gaming #Shorts",
+  "logo": "logo.png",
+  "banners": [
+    ["GAME NAME", "GAMEPLAY IS HERE"],
+    ["GAME NAME", "MULTIPLAYER GAMEPLAY"],
+    ["GAME NAME", "FIRST LOOK"]
+  ],
+  "captions": [
+    ["THIS MOVEMENT", "IS INSANE"],
+    ["THIS MAP", "GOES CRAZY"],
+    ["THE GUNPLAY", "IS UNREAL"]
+  ]
+}
